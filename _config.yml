@@ -1,7 +1,7 @@
 name: PolPowSmp
 favicon: null
-layout_spectrum: 0.9638783349655569
-typography_spectrum: 0.7412347332574427
+layout_spectrum: 1
+typography_spectrum: 0.25879
 cta:
   domain: null
   bucket: null
